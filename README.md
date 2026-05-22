@@ -1,4 +1,4 @@
-# ECONGA4003_FINALPROJECT
+# Country Level Analysis of Happiness and Peace with a focus on the Role of Female Heads of State
 
  ## Authors: 
  This project was authored by:
